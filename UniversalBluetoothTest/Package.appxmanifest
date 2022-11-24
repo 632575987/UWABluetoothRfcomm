@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="7f29dfa3-f749-460f-8ca5-c619703fb80d" Publisher="CN=Bary" Version="1.0.0.0" />
+  <Identity Name="7f29dfa3-f749-460f-8ca5-c619703fb80d" Publisher="CN=wu" Version="1.0.0.0" />
   <mp:PhoneIdentity PhoneProductId="7f29dfa3-f749-460f-8ca5-c619703fb80d" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>UniversalBluetoothTest</DisplayName>
-    <PublisherDisplayName>Bary</PublisherDisplayName>
+    <PublisherDisplayName>wu</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>

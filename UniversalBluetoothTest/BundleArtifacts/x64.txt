@@ -1,0 +1,2 @@
+MainPackage=C:\Users\wu\Source\Repos\632575987\UWABluetoothRfcomm\UniversalBluetoothTest\bin\x64\Release\UniversalBluetoothTest_1.0.0.0_x64.msix
+SymbolPackage=C:\Users\wu\Source\Repos\632575987\UWABluetoothRfcomm\UniversalBluetoothTest\obj\x64\Release\Symbols\UniversalBluetoothTest_1.0.0.0_x64.appxsym

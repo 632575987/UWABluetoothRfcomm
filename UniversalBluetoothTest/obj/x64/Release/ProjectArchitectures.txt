@@ -1,0 +1,1 @@
+C:\Users\wu\Source\Repos\632575987\UWABluetoothRfcomm\UniversalBluetoothTest\UniversalBluetoothTest.csproj;x64

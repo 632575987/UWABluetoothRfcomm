@@ -323,6 +323,7 @@ namespace UniversalBluetoothTest
                         }
 
                         ConversationListBox.Items.Add("Received: \"" + chatReader.ReadString(stringLength) + "\"");
+                        cstbl.Text += $"{DateTime.Now} Received:   {chatReader.ReadString(stringLength)} {Environment.NewLine}";
                     }
                     catch (Exception ex)
                     {
